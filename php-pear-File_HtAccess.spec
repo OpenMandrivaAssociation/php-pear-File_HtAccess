@@ -4,7 +4,7 @@
 
 Name:		php-pear-%{upstream_name}
 Version:	1.2.1
-Release:	8
+Release:	9
 Summary:	Manipulate .htaccess files
 License:	PHP License
 Group:		Development/PHP
